@@ -1,0 +1,18 @@
+Day-1
+-> Introduction to data
+-> spreadsheets
+-> excel basic stats (min, max, Q1, Q2(median), Q3, Q4)
+-> Rstudio overview (consol, env, terminal, file directory)
+-> working directory, 
+-> A sample R session
+-> basic calculations (+, -, *, sqrt)
+-> variables assigments
+-> data structures in R ()
+-> basic stats (summary function)
+-> basic plots (scatter, hist, boxplot, correlation)
+-> ANOVA
+-> regression and correlation
+-> data_read_and_write in Rstudio
+
+ 
+

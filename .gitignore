@@ -1,4 +1,4 @@
-.Rhistory
-.pdf
-.jpg
-.txt
+*.Rhistory
+*.pdf
+*.jpg
+*.txt

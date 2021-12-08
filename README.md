@@ -1,2 +1,2 @@
 # QAU_R_Training
-A quick guide to R programing. 
+A quick beginner guide to R programing and GWAS analysis. 
